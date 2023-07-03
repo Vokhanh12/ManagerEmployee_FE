@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.custom-menu-item {
+  width: 100px; /* Đặt chiều rộng của mỗi mục Menu */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
